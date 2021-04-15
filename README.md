@@ -178,7 +178,7 @@ A shortened version of the results can be seen below:
 
 This code finds all the unique values within the `host_name` field.
 
-What might be interesting to note is that the hosts do not have to provie their full legal name to potential Airbnb guests, and oftentimes they do not.
+What might be interesting to note is that the hosts do not have to provide their full legal name to potential Airbnb guests, and oftentimes they do not.
 
 A shortened list can be seen below:
 
