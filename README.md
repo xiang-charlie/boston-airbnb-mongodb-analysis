@@ -329,6 +329,6 @@ The full set of results can be seen below:
 { "_id" : "East Boston, Massachusetts, United States", "average" : 95.75 }
 ```
 
-## Extra Credit
+<!-- ## Extra Credit -->
 
-This assignment deserves extra credit because I completed the extra credit portion, in which I performed the desired function using Pymongo. (Also, because my original CSV file was *__truly__* ugly and I think turning it into a table might have given me a permanent migraine.) Thank you for your consideration!
+<!-- This assignment deserves extra credit because I completed the extra credit portion, in which I performed the desired function using Pymongo. (Also, because my original CSV file was *__truly__* ugly and I think turning it into a table might have given me a permanent migraine.) Thank you for your consideration! -->
